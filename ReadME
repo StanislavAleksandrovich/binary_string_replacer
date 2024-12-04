@@ -1,1 +1,2 @@
 Replace string value in go binary file.
+it only works with same-length strings or shorter strings, while preserving the exact binary structure.
